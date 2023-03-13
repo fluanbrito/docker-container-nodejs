@@ -4,8 +4,6 @@
 
 #### Francisco Luan Ferreira Brito
 
-Este repositório foi criado e desenvolvido para a avaliação da primeira sprint do programa de bolsas Compass.uol para formação em machine learning para AWS.
-
 Este projeto trata-se da criação de um contêiner docker para node.js e execução de um aplicativo express.js simples no contêiner.
 
 ## Sobre a reprodução e implementação
